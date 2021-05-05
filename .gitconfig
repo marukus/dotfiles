@@ -1,0 +1,33 @@
+[user]
+    name = Monkin
+    email = hello@monkin.co
+[color]
+    ui = auto
+[filter "lfs"]
+    clean = git-lfs clean %f
+    smudge = git-lfs smudge %f
+    required = true
+[alias]
+    a = add -A
+    b = branch
+    c = clone --depth=1
+    d = diff
+    g = push -u origin
+    l = log
+    p = pull
+    s = status
+    r = reset HEAD
+    cd = clone
+    gc = checkout
+    av = commit -a -v
+    gm = push -u origin master
+    gd = push -u origin dev
+    ga = submodule add
+    gs = submodule update --init --recursive
+    gf = push origin master --force
+    gr = pull --rebase upstream
+    gu = remote add upstream
+    gl = show-branch -r
+    gsr = clone --depth=1 --recurse-submodules
+[pull]
+	rebase = false
