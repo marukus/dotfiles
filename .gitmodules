@@ -13,6 +13,3 @@
 [submodule ".vim"]
 	path = .vim
 	url = git@github.com:monkinco/vimfiles.git
-[submodule ".weechat"]
-	path = .weechat
-	url = git@github.com:monkinco/weechatfiles.git
