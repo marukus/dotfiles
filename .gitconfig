@@ -31,3 +31,5 @@
     gsr = clone --depth=1 --recurse-submodules
 [pull]
 	rebase = false
+[init]
+	defaultBranch = master
