@@ -4,9 +4,6 @@
 [submodule ".config"]
 	path = .config
 	url = git@github.com:monkinco/configfiles.git
-[submodule ".txt"]
-	path = .txt
-	url = git@github.com:monkinco/txt.git
 [submodule ".bin"]
 	path = .bin
 	url = git@github.com:monkinco/binfiles.git
