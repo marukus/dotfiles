@@ -1,12 +1,12 @@
 [submodule ".zsh"]
 	path = .zsh
-	url = git@github.com:monkinco/zshfiles.git
+	url = git@github.com:pcho/zshfiles.git
 [submodule ".config"]
 	path = .config
-	url = git@github.com:monkinco/configfiles.git
+	url = git@github.com:pcho/configfiles.git
 [submodule ".bin"]
 	path = .bin
-	url = git@github.com:monkinco/binfiles.git
+	url = git@github.com:pcho/binfiles.git
 [submodule ".vim"]
 	path = .vim
-	url = git@github.com:monkinco/vimfiles.git
+	url = git@github.com:pcho/vimfiles.git
