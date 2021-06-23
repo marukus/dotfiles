@@ -18,7 +18,7 @@
     s = status
     r = reset HEAD
     cd = clone
-    gc = checkout
+    gcc = checkout
     av = commit -a -v
     gm = push -u origin master
     gd = push -u origin dev
