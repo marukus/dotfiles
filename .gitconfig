@@ -1,12 +1,6 @@
 [user]
-    name = Monkin
-    email = hello@monkin.co
-[color]
-    ui = auto
-[filter "lfs"]
-    clean = git-lfs clean %f
-    smudge = git-lfs smudge %f
-    required = true
+    name = pcho
+    email = p@monkin.co
 [alias]
     a = add -A
     b = branch
