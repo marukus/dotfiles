@@ -12,7 +12,7 @@
     s = status
     r = reset HEAD
     cd = clone
-    gcc = checkout
+    gc = checkout
     av = commit -a -v
     gm = push -u origin master
     gd = push -u origin dev
@@ -22,7 +22,7 @@
     gr = pull --rebase upstream
     gu = remote add upstream
     gl = show-branch -r
-    gsr = clone --depth=1 --recurse-submodules
+    grs = clone --depth=1 --recurse-submodules
 [pull]
 	rebase = false
 [init]
