@@ -1,7 +1,6 @@
 [user]
     name = pcho
     email = p@monkin.co
-	signingkey = ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCybXE2i/CWVFQLYhHBuS44sjLH47Lxw2giXFJzgeZ7o9sbl0KYhGZM3JVLWMZT5ODs1DR2jO/09bU+KuksC9sLv/tkqcIP0ZSsl5khLKgkqDDXE/srXY0dZBu6FTRFyFPanIslQRDjl2YZl7fNpZw1AfMlpRBGkKsPaacMOINC5Tb9hLDWzgA01M7Z74CAg7L3LIE5l1BHPwmExnuXrA+2w/2sEDbIrS7jAmV4hk7RiW85vr7fK0dYQRS67qVV20qwA74Dv02detLlhfjsu4jjwQpaDG4DxZP596NeY4xhOZW1bWR5kEP6M0AWTROizxZwnv+UrzVBIna5czD9cL18RQPFGkVBGkZ8UBqPa1Xbs6PG82Xe6MPNrYsEkTJ06RD6FcI3BpxQHxlctcWEvAWSWhaPrjeudUoQho5V3/0xf6p0GnVqrcH71IRXhsKGF0xhitltthEgh2RQBW2k4P+TW/BiDhLUIyhoxDHDincfk3aPPntN7e3jqm666UmcMTRR1wk/KjspeCIJgDEAkZBFBfF31DdB/lrdh4rAkzmT234nH23f72z4+ScXBUTI2C6fOmU0IdaNzLYLnZJlCtvM0UvSy0IRyPkP7umD1TTJqNcyBSr/p/ZGTf4DpMfYINUrcSgiPwad0XFiYh4qYhtDqX0QpIkYdCsfDAj9touG6w== ubuntu@blink
 [alias]
     a = add -A
     b = branch
@@ -28,5 +27,3 @@
 	rebase = false
 [init]
 	defaultBranch = master
-[gpg]
-	format = ssh
